@@ -1,5 +1,6 @@
 # Tasklist backend
 
+* Get postgresql up and running locally on 5432 port to mach `db.ts` file configuration
 * Run `npm install` and `npm run dev`
 * Running on port 3001
 * Find below postman collection and database backup to restore database in case it's needed
