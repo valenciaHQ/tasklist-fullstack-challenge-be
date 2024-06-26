@@ -1,7 +1,10 @@
-
 # Tasklist backend
 
-Running on port localhost 3001
+* Run `npm install` and `npm run dev`
+* Running on port 3001
+* Find below postman collection and database backup to restore database in case it's needed
+
+
 
 ## To create Database
 ```
